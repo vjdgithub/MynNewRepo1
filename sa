@@ -1,0 +1,43 @@
+[33mcommit 66ad2b4a99324ec538369146898e9d75a82b5164[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: vjdgithub <jagadeeshwork2021@gmail.com>
+Date:   Tue Feb 20 13:27:32 2024 +0000
+
+    Revert "deleted file" Index1.html
+    
+    This reverts commit 04483e782f8384ab4956de6e632ac0bc80c2083b.
+
+[33mcommit 04483e782f8384ab4956de6e632ac0bc80c2083b[m
+Author: vjdgithub <jagadeeshwork2021@gmail.com>
+Date:   Tue Feb 20 13:26:19 2024 +0000
+
+    deleted file
+
+[33mcommit 876175c9133ec71b11390bfa3ddf260773941551[m
+Author: vjdgithub <jagadeeshwork2021@gmail.com>
+Date:   Mon Feb 19 16:23:03 2024 +0000
+
+    2nd modification done
+
+[33mcommit ef6cc3a41a9f28c7b2806837d8b12e0dcb25ee35[m
+Author: vjdgithub <jagadeeshwork2021@gmail.com>
+Date:   Mon Feb 19 16:15:12 2024 +0000
+
+    1st modification
+
+[33mcommit 8c4cabb1bbab3c5222746f223c3dc0affd95f6f8[m
+Author: vjdgithub <jagadeeshwork2021@gmail.com>
+Date:   Mon Feb 19 13:35:18 2024 +0000
+
+    done
+
+[33mcommit 8bad1c861f409c5d221d188a569f4f70de606a5a[m
+Author: vjdgithub <jagadeeshwork2021@gmail.com>
+Date:   Mon Feb 19 13:32:15 2024 +0000
+
+    Added file
+
+[33mcommit f8a12769a91df59984b8681b37831efc89e01c80[m
+Author: vjdgithub <jagadeeshwork2021@gmail.com>
+Date:   Mon Feb 19 13:25:01 2024 +0000
+
+    Adding files initially
